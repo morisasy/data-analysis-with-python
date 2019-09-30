@@ -4,7 +4,7 @@
 
 ### SELF-STUDY PYTHON COURSE
 
--[the Universityof Helsinki](https://courses.helsinki.fi/fi/aycsm90004en/129660063). The repository consists of weekly exercises.
+- [The Universityof Helsinki](https://courses.helsinki.fi/fi/aycsm90004en/129660063). The repository consists of weekly exercises.
 
 
 > Data analysis with Python is a practical introduction to data analysis using a large number of programming exercises.
